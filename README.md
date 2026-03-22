@@ -1,16 +1,17 @@
-<img src="profile.jpg" align="right" width="220">
-
 ## Eyal Weiss
 
-Postdoctoral Scholar in AI & Robotics at the [Computational Robotics Lab (CRL)](https://crl.cs.technion.ac.il/), Computer Science Faculty   , [Technion](https://www.cs.technion.ac.il/) — Israel Institute of Technology.
+<img src="profile.jpg" align="right" width="220">
 
-My research focuses on **Planning, Search & Optimization**, with applications in AI, robotics, and combinatorial problems. I develop algorithms for generalized automated planning with dynamic action models, combining tools from AI planning, graph theory, and combinatorial optimization.
+Postdoctoral Scholar in **AI & Robotics** at the [Computational Robotics Lab (CRL)](https://crl.cs.technion.ac.il/), Computer Science Faculty, [Technion](https://www.cs.technion.ac.il/) — Israel Institute of Technology.
+
+My research focuses on **Planning, Search & Optimization**, with broad applications in AI & robotics. I develop theory, algorithms and planners/solvers.
 
 ### Currently Working On
-- Bidirectional heuristic search
-- Planning with dynamically estimated action models
 - Motion planning and manipulation for dual-armed robots
+- Motion planning for snake-like robots
 - Multi-agent warehouse optimization
+- Planning with dynamically estimated action models
+- Bidirectional heuristic search
 
 ### Recent Highlights
 - **Best Paper Award** at SoCS 2025 for [From Agent Centric to Obstacle Centric Planning: A Makespan-Optimal Algorithm for the Multi-Agent Warehouse Rearrangement Problem](https://ojs.aaai.org/index.php/SOCS/article/view/35985/38140)
