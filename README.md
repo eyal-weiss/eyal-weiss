@@ -30,7 +30,7 @@ Outside of research, I am an active investor. I occasionally share opinions on m
 
 ### Links
 
-[![Website](https://img.shields.io/badge/Website-sites.google.com-blue)](https://sites.google.com/view/eyal-weiss/home)
+[![Website](https://img.shields.io/badge/Website-eyal--weiss.github.io-blue)](https://eyal-weiss.github.io)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-green)](https://scholar.google.com/citations?user=LO5sHMIAAAAJ&hl=en)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--0508--6213-brightgreen)](https://orcid.org/0000-0003-0508-6213)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/eyal-weiss-ba3b3383)
